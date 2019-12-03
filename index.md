@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 ![Image](./imgs/login.png)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TranslationalBiophotonics/annotation-guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+<img src="imgs/login.png" class="img-responsive" alt=""> </div>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
