@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Tulane Annotation Guide
 
 You can use the [editor on GitHub](https://github.com/TranslationalBiophotonics/annotation-guide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
