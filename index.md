@@ -79,10 +79,15 @@ To create new annotations under the **Gleason_3** class simply follow the instru
 ## Annotation Metadata
 
 Consistency in naming of annotations is vital to ensure that annotations can be extracted and used effectively.
+For the prostatic adenocarcinoma annotations must correspond to one of the following classes:
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Class Label for **Name** field | Description                                    |
+| -------------                  | :-------------                                 |
+| Benign                         | Normal tissue only                             |
+| G3                             | Pure Gleason 3                                 |
+| G4                             | Pure Gleason 4                                 |
+| G5                             | Pure Gleason 5                                 |
+| BPH                            | Benign Prostatic Hyperplasia                   |
+| HG-PIN                         | High-Grade Prostatic Intraepithelial Neoplasia |
+
