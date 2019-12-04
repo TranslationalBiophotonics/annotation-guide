@@ -40,3 +40,5 @@ We are now ready to begin our first annotation!
 In the **Annotations** toolbox (the second toolbox on the right of the screen) select **New**. This will open the **Create annotation** prompt below.
 
 ![Image](images/new_annot.png)
+
+Each annotation actually represents a collection of annotations. In this way you can associate multiple annotations with the **Name** you provide. In this example we will create a **Benign** annotation, and then we will annotate multiple benign regions, which will be linked to that **Benign** annotation. This may seem confusing at first, but it will become clear with the following examples. First we type ~Benign~ into the **Name** field for the annotation. There is no need to provide additional description. Then select save to create an annotation collection called **Benign**. 
