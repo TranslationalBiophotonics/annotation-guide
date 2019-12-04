@@ -76,7 +76,7 @@ If you only want to look at one class of annotations at a time, you can use the 
 
 To create new annotations under the **Gleason_3** class simply follow the instructions for creating new **Line** annotations for the **Benign** class. 
 
-## Annotation Metadata
+## Annotation Naming
 
 Consistency in naming of annotations is vital to ensure that annotations can be extracted and used effectively.
 For the prostatic adenocarcinoma annotations must correspond to one of the following classes:
@@ -89,5 +89,8 @@ For the prostatic adenocarcinoma annotations must correspond to one of the follo
 | G4                             | Pure Gleason 4                                 |
 | G5                             | Pure Gleason 5                                 |
 | BPH                            | Benign Prostatic Hyperplasia                   |
-| HG-PIN                         | High-Grade Prostatic Intraepithelial Neoplasia |
+| HGPIN                         | High-Grade Prostatic Intraepithelial Neoplasia |
+
+The **Name** field of any annotation collection created in the **Annotations** toolbox must match exactly one of the fields from class label, including Benign, G3, G4, G5, BPH, and HGPIN. Any annotated region must be comprised entirely of tissue matching the **Name** class for which it belongs.
+
 
