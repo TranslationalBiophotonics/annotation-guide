@@ -14,3 +14,17 @@ A login prompt will display, where you can login with your provided credentials.
 Upon successful login please follow the link to the **Image Annotation Platform**. If successful you will see a screen similar to that shown below. 
 
 ![Image](images/iap.png)
+
+### Select an Image for Annotation
+
+Select the **Open image..** prompt at the top of the header bar. A **select a slide** pop up prompt will open, as below:
+
+![Image](images/open_image.png)
+
+Begin by selecting the relevant collection of images you will be annotating. In this example we select **Prostatic Adenocarcinoma (PRAD)** cases, which contain images in folders by institution. Select the institution that you will be annotating images for. In this example we will select **Radboud** for University Medical Center Radboud. 
+
+![Image](images/prad.png)
+
+When selected a thumbnail display of all images within that folder will display, as shown below:
+
+![Image](images/prad_select.png)
