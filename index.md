@@ -11,7 +11,7 @@ A login prompt will display, where you can login with your provided credentials.
 
 ![Image](images/login_prompt.png)
 
-Upon successful login please follow the link to the **Image Annotation Platform**. If successful you will see a screen similar to that shown below. 
+Upon successful login please follow the link to the **Image Annotation Platform**. If successful you will see a screen similar to that shown below:
 
 ![Image](images/iap.png)
 
@@ -25,10 +25,14 @@ Begin by selecting the relevant collection of images you will be annotating. In 
 
 ![Image](images/prad.png)
 
-When selected a thumbnail display of all images within that folder will display, as shown below:
+When selected, a thumbnail display of all images within that folder will display, as shown below:
 
 ![Image](images/prad_select.png)
 
 Select the first image you intend to annotate, then select **Open**. In this example, we will select the first image in the list, **pds_1_HE.tif**. This will open a whole-slide image viewer, as shown below: 
 
 ![Image](images/pds_1.png)
+
+We are now ready to begin our first annotation!
+
+### Annotating Images
