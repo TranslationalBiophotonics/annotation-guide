@@ -28,3 +28,7 @@ Begin by selecting the relevant collection of images you will be annotating. In 
 When selected a thumbnail display of all images within that folder will display, as shown below:
 
 ![Image](images/prad_select.png)
+
+Select the first image you intend to annotate, then select **Open**. In this example, we will select the first image in the list, **pds_1_HE.tif**. This will open a whole-slide image viewer, as shown below: 
+
+![Image](images/pds_1.png)
