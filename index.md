@@ -68,3 +68,7 @@ At this point we have only added annotations of one class, benign. Lets add anot
 You should now see a new annotation collection, **Gleason_3**, shown in the **Annotation** toolbox under **Benign**.
 
 ![Image](images/g3_annot.png)
+
+Notice that the **Gleason_3** field is highlighted in the **Annotations** toolbox. The **Draw** toolbox creates annotations for the currently selection annotation, so the **Draw** toolbox will create new **Gleason_3** annotations as long as it is selected.
+
+## Editing Annotations
