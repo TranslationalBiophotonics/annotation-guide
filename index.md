@@ -94,3 +94,13 @@ For the prostatic adenocarcinoma annotations must correspond to one of the follo
 The **Name** field of any annotation collection created in the **Annotations** toolbox must match exactly one of the fields from class label, including Benign, G3, G4, G5, BPH, and HGPIN. Any annotated region must be comprised entirely of tissue matching the **Name** class for which it belongs.
 
 
+## Annotation Collection Editing
+
+An annotation my be changed in two ways, edited or deleted. To edit an annotation select the gear icon to the right of the annotation collection name in the **Annotations** toolbox. An **Edit annotation** window will pop up where you may change the **Name** of the annotation collection, as well as edit the **Description** and line color and fill of the annotation collection, as shown below: 
+
+![Image](images/g3_annot.png)
+
+To delete an annotation collection (which will also delete all individual annotation polygons associated with it) click the x next to the **Name** in the **Annotations** toolbox. 
+
+**WARNING:** Editing the annotations in the **Annotations** toolbox will affect ALL individual annotations associated with that annotation collection, to include deleting them all. Exercise caution when editing annotations in the **Annotations** toolbox.
+
