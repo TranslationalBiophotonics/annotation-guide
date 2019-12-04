@@ -52,3 +52,7 @@ Once the **Benign** annotation collection is created you will see a new toolbox,
 The **Draw** toolbox has four annotation options: **Point**, **Rectangle**, **Polygon**, and **Line**. We as that you restrict either **Polygon** or **Line**. If operating on a computer with a mouse or trackpad then **Polygon** will be the easiest to use. If you were issued a tablet and stylus for the study on which you are collaborating then **Line** will be the easiest to use. For this example we will assume you are using a tablet and stylus, and use **Line**. Select the **Line** option in the **Draw** toolbox. The **Line** field should be blue, and your cursor will have now switched from an arrow to a crosshair:
 
 ![Image](images/line.png)
+
+To annotate with a mouse click once and hold as you draw around the region you are annotating until you reach then end, then click again to connect the beginning of the annotation with the end of the annotation. If successful the annotation line color will change from blue to yellow indicating a new annotation was created, and a new polygon (associated with the **Benign** annotation group) will appear at the bottom of the **Draw** toolbox, as shown below:
+
+![Image](images/new_annot.png)
