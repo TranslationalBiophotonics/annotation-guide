@@ -17,7 +17,7 @@ Upon successful login please follow the link to the **Image Annotation Platform*
 
 ## Select an Image for Annotation
 
-Select the **Open image..** prompt at the top of the header bar. A **select a slide** pop up prompt will open, as below:
+Select the **Open image..** prompt at the top of the header bar. A **Select a slide...** pop up prompt will open, as below:
 
 ![Image](images/open_image.png)
 
@@ -36,3 +36,5 @@ Select the first image you intend to annotate, then select **Open**. In this exa
 We are now ready to begin our first annotation!
 
 ## Annotating Images
+
+In the **Annotations** toolbox (the second toolbox on the right of the screen) select **New**. This will open the **Create annotation** prompt below.
