@@ -100,7 +100,8 @@ An annotation my be changed in two ways, edited or deleted. To edit an annotatio
 
 ![Image](images/edit.png)
 
-To delete an annotation collection (which will also delete all individual annotation polygons associated with it) click the x next to the **Name** in the **Annotations** toolbox. 
+To delete an annotation collection (which will also delete all individual annotation polygons associated with it) click the **x** next to the **Name** in the **Annotations** toolbox. 
 
 **WARNING:** Editing the annotations in the **Annotations** toolbox will affect ALL individual annotations associated with that annotation collection, to include deleting them all. Exercise caution when editing annotations in the **Annotations** toolbox.
 
+To delete only a single polygon (ie a single region annotated with a yellow line), select the **x** next to that polygon in the **Draw** toolbox when the relevant **Name** is selected in the **Annotations** toolbox.
