@@ -1,11 +1,10 @@
 ## Welcome to the Tulane Annotation Guide
 
-Thank you for your participation in this multi-institutional study.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for your participation in this multi-institutional study. This guide is intented for collaborators with Tulane University on studies involving annotation of whole-slide histopathology images. This guide will serve as both a tutorial on how to perform annotations in the annopath.tulane.edu platform, as well as guidance on how those annotations should be structured.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### User Account
+You will have received a username and password for the annotath.tulane.edu platform. To login please follow the **Register or Log In** link in the top right of the home screen, as shown below.
+![Image](images/login.png)
 
 ```markdown
 Syntax highlighted code block
