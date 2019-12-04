@@ -71,4 +71,7 @@ You should now see a new annotation collection, **Gleason_3**, shown in the **An
 
 Notice that the **Gleason_3** field is highlighted in the **Annotations** toolbox. The **Draw** toolbox creates annotations for the currently selection annotation, so the **Draw** toolbox will create new **Gleason_3** annotations as long as it is selected.
 
+#### Tip: 
+If you only want to look at one class of annotations at a time, you can use the eyeball to the left of the class in the **Annotations** toolbox to turn off visualization of those annotations. The annotations are still present, but this helps if you do not want to be distracted by one class of annotations, for example benign, while you are attempting to annotate another class, such as Gleason 3. 
+
 ## Editing Annotations
