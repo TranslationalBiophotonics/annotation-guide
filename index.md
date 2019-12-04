@@ -98,7 +98,7 @@ The **Name** field of any annotation collection created in the **Annotations** t
 
 An annotation my be changed in two ways, edited or deleted. To edit an annotation select the gear icon to the right of the annotation collection name in the **Annotations** toolbox. An **Edit annotation** window will pop up where you may change the **Name** of the annotation collection, as well as edit the **Description** and line color and fill of the annotation collection, as shown below: 
 
-![Image](images/g3_annot.png)
+![Image](images/edit.png)
 
 To delete an annotation collection (which will also delete all individual annotation polygons associated with it) click the x next to the **Name** in the **Annotations** toolbox. 
 
