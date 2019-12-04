@@ -64,3 +64,7 @@ Congrats! You have successfully created an annotation! To stop annotating click 
 At this point we have only added annotations of one class, benign. Lets add another class of annotations, Gleason 3. To do this ensure that **Line** is not selected. Then, in the **Annotations** toolbox select new. Finally type `Gleason_3` into the **Name** field, and select **Save**.
 
 ![Image](images/new_g3.png)
+
+You should now see a new annotation collection, **Gleason_3**, shown in the **Annotation** toolbox under **Benign**.
+
+![Image](images/g3_annot.png)
