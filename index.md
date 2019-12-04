@@ -38,3 +38,5 @@ We are now ready to begin our first annotation!
 ## Annotating Images
 
 In the **Annotations** toolbox (the second toolbox on the right of the screen) select **New**. This will open the **Create annotation** prompt below.
+
+![Image](images/new_annot.png)
