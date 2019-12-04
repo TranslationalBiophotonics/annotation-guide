@@ -41,7 +41,7 @@ In the **Annotations** toolbox (the second toolbox on the right of the screen) s
 
 ![Image](images/new_annot.png)
 
-Each annotation actually represents a collection of annotations. In this way you can associate multiple annotations with the **Name** you provide. In this example we will create a **Benign** annotation, and then we will annotate multiple benign regions, which will be linked to that **Benign** annotation. This may seem confusing at first, but it will become clear with the following examples. First we type ~Benign~ into the **Name** field for the annotation. There is no need to provide additional description. Then select save to create an annotation collection called **Benign**. 
+Each annotation actually represents a collection of annotations. In this way you can associate multiple annotations with the **Name** you provide. In this example we will create a **Benign** annotation, and then we will annotate multiple benign regions, which will be linked to that **Benign** annotation. This may seem confusing at first, but it will become clear with the following examples. First we type `Benign` into the **Name** field for the annotation. There is no need to provide additional description. Then select save to create an annotation collection called **Benign**. 
 
 ![Image](images/create_benign.png)
 
@@ -49,3 +49,4 @@ Once the **Benign** annotation collection is created you will see a new toolbox,
 
 ![Image](images/draw.png)
 
+The **Draw** toolbox has four annotation options: **Point**, **Rectangle**, **Polygon**, and **Line**. We as that you restrict either **Polygon** or **Line**. If operating on a computer with a mouse or trackpad then **Polygon** will be the easiest to use. If you were issued a tablet and stylus for the study on which you are collaborating then **Line** will be the easiest to use. For this example we will assume you are using a tablet and stylus, and use **Line**. Select the **Line** option in the **Draw** toolbox.   
