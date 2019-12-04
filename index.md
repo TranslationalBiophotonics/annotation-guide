@@ -1,8 +1,8 @@
-## Welcome to the Tulane Annotation Guide
+# Welcome to the Tulane Annotation Guide
 
 Thank you for your participation in this multi-institutional study. This guide is intented for collaborators with Tulane University on studies involving annotation of whole-slide histopathology images. This guide will serve as both a tutorial on how to perform annotations in the annopath.tulane.edu platform, as well as guidance on how those annotations should be structured.
 
-### User Account
+## User Account
 You will have received a username and password for the annotath.tulane.edu platform. To login please follow the **Register or Log In** link in the top right of the home screen, as shown below.
 
 ![Image](images/login.png)
@@ -15,7 +15,7 @@ Upon successful login please follow the link to the **Image Annotation Platform*
 
 ![Image](images/iap.png)
 
-### Select an Image for Annotation
+## Select an Image for Annotation
 
 Select the **Open image..** prompt at the top of the header bar. A **select a slide** pop up prompt will open, as below:
 
@@ -35,4 +35,4 @@ Select the first image you intend to annotate, then select **Open**. In this exa
 
 We are now ready to begin our first annotation!
 
-### Annotating Images
+## Annotating Images
