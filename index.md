@@ -77,3 +77,12 @@ If you only want to look at one class of annotations at a time, you can use the 
 To create new annotations under the **Gleason_3** class simply follow the instructions for creating new **Line** annotations for the **Benign** class. 
 
 ## Annotation Metadata
+
+Consistency in naming of annotations is vital to ensure that annotations can be extracted and used effectively.
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
