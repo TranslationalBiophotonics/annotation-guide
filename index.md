@@ -56,3 +56,7 @@ The **Draw** toolbox has four annotation options: **Point**, **Rectangle**, **Po
 To annotate with a mouse click once and hold as you draw around the region you are annotating until you reach then end, then click again to connect the beginning of the annotation with the end of the annotation. If successful the annotation line color will change from blue to yellow indicating a new annotation was created, and a new polygon (associated with the **Benign** annotation group) will appear at the bottom of the **Draw** toolbox, as shown below:
 
 ![Image](images/new_annot.png)
+
+Congrats! You have successfully created an annotation! To stop annotating click the **Line** option to disable it. To create another Benign annotation associated with the **Benign** annotation collection ensure that the **Line** option is enabled, then create another annotation. In this example we will create a second annotation in the same way we created the first. Upon creation of the second annotation you will see that a new polygon is added to the list in the **Draw** toolbox, as shown below:
+
+![Image](images/second_annot.png)
