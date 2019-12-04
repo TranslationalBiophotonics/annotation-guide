@@ -82,7 +82,7 @@ Consistency in naming of annotations is vital to ensure that annotations can be 
 For the prostatic adenocarcinoma annotations must correspond to one of the following classes:
 
 
-| Class Label for **Name** field | Description                                    |
+| Class Label for **Name** Field | Description                                    |
 | -------------                  | :-------------                                 |
 | Benign                         | Normal tissue only                             |
 | G3                             | Pure Gleason 3                                 |
