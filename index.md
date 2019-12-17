@@ -61,20 +61,20 @@ Congrats! You have successfully created an annotation! To stop annotating click 
 
 ![Image](images/second_annot.png)
 
-At this point we have only added annotations of one class, benign. Lets add another class of annotations, Gleason 3. To do this ensure that **Line** is not selected. Then, in the **Annotations** toolbox select new. Finally type `Gleason_3` into the **Name** field, and select **Save**.
+At this point we have only added annotations of one class, benign. Lets add another class of annotations, Gleason 3. To do this ensure that **Line** is not selected. Then, in the **Annotations** toolbox select new. Finally type `G3` into the **Name** field, and select **Save**.
 
 ![Image](images/new_g3.png)
 
-You should now see a new annotation collection, **Gleason_3**, shown in the **Annotation** toolbox under **Benign**.
+You should now see a new annotation collection, **G3**, shown in the **Annotation** toolbox under **Benign**.
 
 ![Image](images/g3_annot.png)
 
-Notice that the **Gleason_3** field is highlighted in the **Annotations** toolbox. The **Draw** toolbox creates annotations for the currently selection annotation, so the **Draw** toolbox will create new **Gleason_3** annotations as long as it is selected.
+Notice that the **G3** field is highlighted in the **Annotations** toolbox. The **Draw** toolbox creates annotations for the currently selection annotation, so the **Draw** toolbox will create new **G3** annotations as long as it is selected.
 
 #### Tip: 
 If you only want to look at one class of annotations at a time, you can use the eyeball to the left of the class in the **Annotations** toolbox to turn off visualization of those annotations. The annotations are still present, but this helps if you do not want to be distracted by one class of annotations, for example benign, while you are attempting to annotate another class, such as Gleason 3. 
 
-To create new annotations under the **Gleason_3** class simply follow the instructions for creating new **Line** annotations for the **Benign** class. 
+To create new annotations under the **G3** class simply follow the instructions for creating new **Line** annotations for the **Benign** class. 
 
 ## Annotation Naming
 
